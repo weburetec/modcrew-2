@@ -1,0 +1,184 @@
+.profile-anchor {
+  color: black;
+  text-decoration: none;
+  margin-left: 2%;
+  margin-top: 1rem;
+}
+
+.home-anchor {
+  text-decoration: none;
+  color: #ee0405;
+  font-weight: bold;
+}
+
+.menu {
+  background-color: #ffffff;
+  padding: 2% 0 2% 4.5%;
+}
+
+.profile-section {
+  background-color: #f4f5fc;
+  padding: 2% 0% 0 3%;
+}
+
+.new-post {
+  border: 1px solid #ee0405;
+  background-color: #ee0405;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0.5rem 2rem;
+  letter-spacing: 1px;
+  margin-left: 7px;
+  width: 80%;
+}
+
+.menu-btns {
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: none;
+  font-size: 1.2rem;
+  margin-top: 15%;
+}
+
+.personal-info {
+  background-color: #ffffff;
+  margin-right: 3%;
+  /* width: 30%; */
+  padding: 2%;
+}
+
+.personal-info-top h5,
+.personal-info-top p {
+  margin-left: 10%;
+  display: inline-block;
+}
+
+.personal-info-top button {
+  margin-left: 16%;
+  background: #c4c4c4;
+  border-radius: 4px;
+  padding: 0.11rem 1.3rem;
+}
+
+.personal-order-history {
+  background-color: #ffffff;
+  margin-right: 3%;
+  /* width: 30%; */
+}
+
+.personal-share-profile {
+  background-color: #ffffff;
+  margin-right: 3%;
+  /* width: 30%; */
+  padding: 2%;
+}
+
+.order-history-heading {
+  display: flex;
+  justify-content: space-between;
+}
+
+.insta {
+  border: 1px solid #ee0405;
+  background-color: #ee0405;
+  color: #ffffff;
+}
+
+.share {
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  letter-spacing: 1px;
+  width: 95%;
+  text-align: left;
+  margin: 5%;
+}
+
+.posts-info h6,
+.posts-info p {
+  text-align: center;
+}
+
+.connected-platforms {
+  text-align: center;
+  font-size: 0.8rem;
+}
+
+.profile-order-info {
+  margin-left: 5%;
+  display: inline-block;
+}
+
+.profile-order-share {
+  border: 1px solid #ee0405;
+  background-color: #ee0405;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 0.3rem 0.5rem;
+  letter-spacing: 1px;
+  margin-left: 0.6rem;
+  width: 20%;
+  margin-left: 10%;
+}
+
+.profile-order-prdct {
+  margin-bottom: 5%;
+}
+
+.membership-div {
+  background-color: #ffffff;
+  margin-top: 1.5%;
+  padding: 2%;
+  /* width: 63%; */
+}
+
+.offers-btn {
+  border: 1px solid #ee0405;
+  background-color: #ee0405;
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.4rem 1rem;
+  letter-spacing: 1px;
+  width: 100%;
+}
+
+.coins {
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 0.4rem 1rem;
+  letter-spacing: 1px;
+  width: 15%;
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: 1px solid #bdbdbd;
+  box-sizing: border-box;
+  border-radius: 4px;
+  width: 100%;
+}
+
+.loyalty-balance {
+  color: blue;
+  display: inline-block;
+}
+
+.recent-activity {
+  background-color: #ffffff;
+  height: 80%;
+  margin-top: 1.5%;
+  margin-left: 3%;
+  /* width: 30%; */
+}
+
+.super-and-recent {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 5%;
+  width: 90%;
+}
+
+.profile-menu-btn-clicked {
+  color: red;
+}

@@ -1,0 +1,24 @@
+.cart-image
+{
+    width: 50%;
+    height: 40%;
+}
+
+.cart-product-details
+{
+    display: flex;
+}
+
+.remove
+{
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    color: #EE0405;
+}
+
+.cart-entries
+{
+    text-align: right;
+    padding: 0 !important;
+}

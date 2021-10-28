@@ -1,0 +1,42 @@
+.footer-div {
+  background-color: black;
+  padding-top: 3%;
+  padding-left: 1%;
+}
+
+.footer-lists {
+  color: white;
+}
+
+.footer-lists p {
+  padding-left: 10%;
+}
+
+.footer-logo {
+  margin-bottom: 5%;
+}
+
+.footer-lists h6 {
+  color: red;
+  text-transform: uppercase;
+}
+
+.second-footer {
+  background-color: red;
+  /* padding-top: 2%; */
+  padding-left: 1%;
+}
+
+.second-footer p {
+  color: white;
+}
+
+@media only screen and (max-width: 650px) {
+  .footer-div {
+    background-color: black;
+  }
+
+  .footer-lists {
+    color: white;
+  }
+}

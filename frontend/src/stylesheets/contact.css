@@ -1,0 +1,68 @@
+.contact-us-div {
+  margin-top: 5%;
+}
+
+.contact-div {
+  /* margin: 2% 25% 1% 38%; */
+  /* margin: 0 20%; */
+  /* margin-left: 10%; */
+}
+
+.form-div {
+  margin: 0 15%;
+  background: #ffffff;
+  box-shadow: 0px 0px 8px 1px rgba(0, 0, 0, 0.1);
+  border-radius: 5px;
+  /* width: 25%; */
+  padding: 5% 5%;
+}
+
+.contact-input {
+  /* width: 80%; */
+  width: 100%;
+  margin-bottom: 6%;
+  border: 1.11015px solid #aaaaaa;
+  box-sizing: border-box;
+  border-radius: 5.55076px;
+}
+
+.contact-input-name {
+  width: 48%;
+  margin-bottom: 4%;
+  border: 1.11015px solid #aaaaaa;
+  box-sizing: border-box;
+  border-radius: 5.55076px;
+  margin-bottom: 6%;
+  margin-top: 6%;
+  /* margin-left: 4%; */
+}
+
+.send-message {
+  border-radius: 10px;
+  border: 1px solid #ee0405;
+  background-color: #ee0405;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 7px 15px;
+  letter-spacing: 1px;
+  width: 40%;
+  margin-left: 30%;
+}
+
+.contact-us-icons {
+  height: 25%;
+  width: 25%;
+}
+
+@media only screen and (max-width: 650px) {
+  .how-can-we-help {
+    width: 90%;
+    margin-top: 5%;
+    text-align: center;
+  }
+
+  .dropdown {
+    margin: 2%;
+  }
+}

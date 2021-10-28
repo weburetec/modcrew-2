@@ -1,0 +1,121 @@
+.admin-menu
+{
+    background-color:#031E49;
+    padding: 2% 0 2% 4.5%;
+}
+
+.admin-menu-btns
+{
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    font-size: 1.2rem;
+    margin-top: 15%;
+    color: #FFFFFF;
+}
+
+.admin-main
+{
+    background-color: #E8ECF6;
+    padding: 1%;
+}
+
+.admin-top
+{
+    border-radius: 12px;
+    color: white;
+    /* width: 23%; */
+    margin-left: 1.5%;
+}
+
+.new-users
+{
+    background-color: #FFFFFF;
+}
+
+.new-users-heading
+{
+    background-color:#F8F8F8;
+    margin-bottom: 0;
+    padding: 5%;
+}
+
+.new-users-div
+{
+    margin: 4% 0 0 1%;
+}
+
+.new-user-hr
+{
+    margin-left: 10%;
+    width: 80%;
+    margin-top: 0%;
+    margin-bottom: 3%;
+}
+
+.more-user-info
+{
+    background: #4599FE;
+    border-radius: 0.4rem;
+    color: white;
+    padding: 1% 50%;
+    border: none;
+    margin-top: 55%;
+}
+
+.name-email-div
+{
+    padding-left: 10%;
+}
+
+.latest-orders-div
+{
+    background-color: #FFFFFF;
+    padding: 0;
+    margin: 4% 0 0 1%;
+    width: 62%;
+}
+
+.latest-users-heading
+{
+    background-color:#F8F8F8;
+    margin-bottom: 0;
+    padding: 2.5%;
+}
+
+.latest-orders
+{
+    /* padding: 1% 3% 0 3%; */
+    padding: 0;
+}
+
+@media only screen and (max-width: 200px) {
+    .hi
+    {
+        width : 100;
+    }
+}
+
+
+.add-product-fields input
+{
+    width: 80%;
+    margin-bottom: 3%;
+}
+
+.admin-menu-btn-clicked
+{
+    color: red;
+}
+
+.add-product-btn
+{
+    margin: 2% 0 0 40%;
+}
+
+.all-categories-add
+{
+    width: 85%;
+    margin-top: 5%;
+    padding: 0%;
+}

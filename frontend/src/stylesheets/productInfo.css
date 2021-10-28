@@ -1,0 +1,151 @@
+.product-info .title
+{
+    font-size: 4vh;
+    font-weight: bold;
+}
+
+.product-info .selling-price
+{
+    font-size: 5vh;
+    margin-left: 10%;
+    color: blue;
+}
+
+.description-div
+{
+    padding-top : 5% !important;
+}
+
+.productsize-btn
+{
+    border-radius: 40px;
+    border: 1px solid black;
+    color: #EE0405;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 15px 15px;
+    letter-spacing: 1px;
+    margin-right: 20px;
+    width: 15%;
+    background: transparent;
+}
+
+.productcolour-btn-1
+{
+    border-radius: 50%;
+    border: 5px solid #031E49;
+    padding: 8px 8px;
+    margin-right: 2%;
+}
+
+.productcolour-btn-2
+{
+    border-radius: 50%;
+    border: 5px solid #9B51E0;
+    padding: 8px 8px;
+    margin-right: 2%;
+}
+
+.productcolour-btn-3
+{
+    border-radius: 50%;
+    border: 5px solid #56CCF2;
+    padding: 8px 8px;
+    margin-right: 2%;
+}
+
+.productcolours
+{
+    margin-left: 5%;
+    opacity: 0;
+}
+
+.qty-sold
+{
+    color: #EE0405;
+    font-weight: bold;
+    margin-left: 3%;
+}
+
+.prodctInfoPage-btns
+{
+    margin-top: 2%;
+}
+
+.product-description
+{
+    margin: 5% 0;
+}
+
+.productInfo-qty-btns
+{
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    font-weight: bold;
+    border-bottom: 2px solid transparent;
+}
+
+.productInfo-product-qty
+{
+    width: 5%;
+    border: 2px solid black;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.add-to-cart
+{
+    background-color: transparent;
+    border: 2px solid #EE0405;
+    padding: 1% 5%;
+    border-radius: 6%;
+}
+
+.comments
+{
+    background: transparent;
+    border: none;
+    color: #4599FE;
+}
+
+.review
+{
+    background: transparent;
+    border: none;
+    color: grey;
+}
+
+.productPage-social-icons
+{
+    border-radius: 50%;
+    background-color: black;
+    margin-left: 2%;
+}
+
+.productPage-social-tray
+{
+    margin-left: 15%;
+}
+
+.comment-review-social
+{
+    display: inline-block;
+    margin-top: 5%;
+    width: 100%;
+}
+
+.default-size
+{
+    color: white;
+    background-color: #EE0405;
+}
+
+.added-to-cart
+{
+    background-color: aquamarine;
+    content: "Added to cart";
+}

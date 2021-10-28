@@ -1,0 +1,31 @@
+.login-winner-list
+{
+    color:white;
+    border-radius: 12px;
+    border: 1px solid #4599FE;
+    background-color: #4599FE;
+    color: #ffffff;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 0.7rem 2rem;
+    /* padding: 10px 30px; */
+    letter-spacing: 1px;
+    margin-left: 620%;
+    width: 100%;
+}
+
+.logo-login-navbar
+{
+  background: url("images/logo.svg") no-repeat 15px center;
+  background-size: 160px 100vh;
+  width: 200px;
+  display: block;
+}
+
+.login-navbar-main
+{
+    padding-bottom: 0;
+    margin: 0;
+    background: #FFFFFF;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.25);
+}

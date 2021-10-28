@@ -1,0 +1,15 @@
+.order-success {
+  margin: 5% 0 0 35%;
+}
+.button-cont {
+  margin-left: 45%;
+  position: absolute;
+  top: 50%;
+}
+@media only screen and (max-width: 650px) {
+  .button-cont {
+    margin-left: 30%;
+    position: absolute;
+    top: 50%;
+  }
+}

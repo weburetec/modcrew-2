@@ -1,0 +1,32 @@
+.login-footer 
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+ }
+
+ .footer-btns
+ {
+    background-color: transparent;
+    background-repeat:no-repeat;
+    border: none;
+    width: 100%;
+ }
+
+
+ .footer-btns-tray-span
+ {
+    position: relative;
+    width: 40%;
+    display: inline-block;
+ }
+
+ .footer-btns-tray
+ {
+    position: absolute;
+    left: 30rem;
+    bottom:0;
+ }
+
